@@ -11,6 +11,7 @@ Java.perform(function() {
         if (password == "") {
             console.log("You didn't enter any password info");
         }
+        //input are base64 encoded
         console.log("login : ", login);
         console.log("password : ", password);
         if (ret == false) {
