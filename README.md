@@ -3,7 +3,10 @@ Files for Open-Obfuscator Challenge https://obfuscator.re/challenges/
 https://romainthomas.fr/challenge-pydroid.apk
 
 1. liba1re03.7z
-Dumped Library from Challenge apk because original library is packed and disassemblers can't process that.
+```sh
+Dumped Library from Challenge apk because original library is packed 
+and disassemblers can't process that.
+```
 
 2. script.js
 ```sh
